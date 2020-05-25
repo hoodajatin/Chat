@@ -2,8 +2,6 @@ body{
     font-family: 'Nunito';
 }
 
-
-
 #mario-chat{
     max-width: 700px;
     margin: 130px auto;
@@ -12,7 +10,6 @@ body{
     border-radius: 4px;
  
 }
-
 
 #chat-window{
     height: 400px;
